@@ -1,6 +1,5 @@
 
-
-# Olá, me chamo Victor Almeida ##
+![Metrics](https://metrics.lecoq.io/Vagodev?template=classic&config.timezone=America%2FSao_Paulo)
 
 <div align="center">
  <p>From: Brasil <br> Learning: Desenvolvimento Back-end e Front-end ou seja ainda perdido mas tentando.</p>
