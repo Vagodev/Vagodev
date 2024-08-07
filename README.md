@@ -1,20 +1,23 @@
 
-
-
 <div align="center">
  <p> <br> Learning: Desenvolvimento Back-end JAVA.</p>
- <img src="https://c.tenor.com/VkRCJzYGdQMAAAAC/pc-man.gif"/> <br>
+
  <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
-  
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vagodev&show_icons=true&theme=onedark" />
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagodev&hide=css,html,blade,less,javascript&exclude_repo=NFTs,Chat,Movies,landingPageyDashboard,News_Portal_witch_Dashboard,landing-page_mvc,Real_Estate_Portal,landing-page,Delivery,Climate,Tennis_Ecommerce,DeliveryFood,News_Portal,Ecommerce_Games,Rede_Social,Editor_Image,Social_Network&layout=compact&theme=dracula&bg_color=#fff"/>
-   
-  
    
 </div> <br>
- 
- ##
 
- 
  </div>
+ 
+ # My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=vagodev&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagodev&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
