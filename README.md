@@ -2,8 +2,9 @@
 
 
 <div align="center">
- <p>From: Brasil <br> Learning: Desenvolvimento Back-end JAVA.</p>
+ <p> <br> Learning: Desenvolvimento Back-end JAVA.</p>
  <img src="https://c.tenor.com/VkRCJzYGdQMAAAAC/pc-man.gif"/> <br>
+ <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
   
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vagodev&show_icons=true&theme=onedark" />
