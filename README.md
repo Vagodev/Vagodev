@@ -2,7 +2,7 @@
 <div align="center">
  <p> <br> Learning: Desenvolvimento Back-end JAVA.</p>
 
- <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+ <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="center">
    
 </div> <br>
 
